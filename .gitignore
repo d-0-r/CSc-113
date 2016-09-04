@@ -90,3 +90,6 @@ ENV/
 
 # PDF
 *.pdf
+
+#MAC CRAP
+.DS_*
