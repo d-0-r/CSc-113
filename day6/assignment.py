@@ -18,7 +18,7 @@ month_dict = {
 }
 
 choice = str(input("Enter month number")) # for cross version compatibility
-print(month_dict(choice))
+print(month_dict[choice])
 
 #3 - Recursive Fibonnacci
 def rec_fib(n):
