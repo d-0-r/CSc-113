@@ -1,0 +1,23 @@
+Instructions:
+
+Given 2 strings st1 and str2 from user input
+
+1 - Check the characters occuring in str1 and not str2
+
+2 - str2 and not str1
+
+3 - Output only distinct characters
+
+eg)
+
+a = abcdeeeggg
+b = iiibcduvz
+
+OUTPUTS:
+-------
+
+1 - aeeeggg
+2 - iiiuvz
+3 - aegiuvz
+
+New e-mail: ayuksel@ccny.cuny.edu
