@@ -1,0 +1,14 @@
+HW 7:
+-----
+
+
+input: a word
+output: {} has {} vowels and {} consonants
+
+Instructions:
+
+Define a class
+	+ consonants - attribute
+	+ vowels - attribute
+	+ ask for user word - input()
+	+ print result - print("".format())
